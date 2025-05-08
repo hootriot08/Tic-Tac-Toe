@@ -1,0 +1,8 @@
+HOW TO PLAY THIS GAME by the creator.
+BIOPIC: I, Atharva Vaze, finished this game April 3rd of 2024.
+How to play: 
+1. All input is read with left click. 
+2. The game opens to a menu where there are two buttons. I made the two player mode, but if anyone else wants to add on to this game file with a mode they created I created a button for it. 
+3. After selecting two player mode, you play tic tac toe as normal.
+4. after the game ends, it says who won. Then it gives the option to play again or to exit.
+5. thats it, have fun.
